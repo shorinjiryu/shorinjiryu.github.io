@@ -1,0 +1,2 @@
+# shorinjiryu.github.io
+website
