@@ -10,7 +10,6 @@ body {
   height: 250px;
   margin: 40px auto;
   text-align: center;
-  /* bring your own prefixes */
   border-radius: 10px;
   border: 15px double red;
   position: relative;
